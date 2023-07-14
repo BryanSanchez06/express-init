@@ -1,0 +1,24 @@
+{
+  "name": "jelou-word",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BryanSanchez6",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanSanchez06/express-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BryanSanchez06/express-init/issues"
+  },
+  "homepage": "https://github.com/BryanSanchez06/express-init#readme",
+  "dependencies": {
+    "espress": "^0.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
